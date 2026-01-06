@@ -1,0 +1,6 @@
+appsettings.json
+.vs/
+NotesApp/bin/
+NotesApp/obj/
+*.user
+*.suo
